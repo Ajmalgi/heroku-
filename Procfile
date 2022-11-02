@@ -1,0 +1,1 @@
+web: gunicorn herokupro.wsgi --log-file-
